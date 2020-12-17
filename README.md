@@ -1,16 +1,12 @@
 # CodingTest_Practice
-알고리즘 코딩테스트 연습
 
-[v] 2020-12-09 엄청난 부자2 : 수학, 사칙연산, 임의 정밀도/큰 수 연산
-
-[v] 2020-12-10 Bronze V ( 1550, 2338, 2475, 2557, 2558, 2845, 2914, 3003, 3046 )
-
-[v] 2020-12-12 Bronze VI ( 1212 )
-
-[v] 2020-12-13 Bronze VI ( 1297 )
-
-[v] 2020-12-14 Bronze VI ( 1330 '두 수 비교하기', 1712 '손익분기점')
-
-[v] 2020-12-15 Bronze V ( 5554 '심부름 가는 길' ), Bronze III ( 1085 '직사각형에서 탈출 ' )
-
-[v] 2020-12-16 Bronze III ( 1547 '공' )
+| Date | Class | Site | Problem | Link |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2020-12-09 | Bronze 5 | BOJ | 1271 '엄청난 부자2' | https://www.acmicpc.net/problem/1271 |
+| 2020-12-10 | Bronze 5 | BOJ | 1550 '16 진수' <br/> 2338 '긴자리 계산' <br/> 2475 '검증수' <br/> 2557 'Hello World' <br/> 2558 'A+B' <br/> 2845 '파티가 끝난 뒤' <br/> 2914 '저작권' <br/> 3003 '킹,퀸,룩,비숍,나이트,폰 <br/> 3046 'R2' | https://www.acmicpc.net/problem/1550 <br/> https://www.acmicpc.net/problem/2338 <br/> https://www.acmicpc.net/problem/2475 <br/> https://www.acmicpc.net/problem/2557 <br/> https://www.acmicpc.net/problem/2558 <br/> https://www.acmicpc.net/problem/2845 <br/> https://www.acmicpc.net/problem/2914 <br/> https://www.acmicpc.net/problem/3003 <br/> https://www.acmicpc.net/problem/3046|
+| 2020-12-12 | Bronze 4 | BOJ | 1212 '8진수 2진수' | https://www.acmicpc.net/problem/1212 |
+| 2020-12-13 | Bronze 4 | BOJ | 1297 'TV 크기' | https://www.acmicpc.net/problem/1297 |
+| 2020-12-14 | Bronze 4 | BOJ | 1330 '두 수 비교하기' <br/> 1712 '손익 분기점' | https://www.acmicpc.net/problem/1330 <br/> https://www.acmicpc.net/problem/1712 |
+| 2020-12-15 | Bronze 5 | BOJ | 5554 '심부름 가는길' | https://www.acmicpc.net/problem/5554 |
+| 2020-12-15 | Bronze 3 | BOJ | 1085 '직사각형에서 탈출' | https://www.acmicpc.net/problem/1085 |
+| 2020-12-16 | Bronze 3 | BOJ | 1547 '공' | https://www.acmicpc.net/problem/1547 |
