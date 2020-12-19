@@ -10,3 +10,5 @@
 | 2020-12-15 | Bronze 5 | BOJ | 5554 '심부름 가는길' | https://www.acmicpc.net/problem/5554 |
 | 2020-12-15 | Bronze 3 | BOJ | 1085 '직사각형에서 탈출' | https://www.acmicpc.net/problem/1085 |
 | 2020-12-16 | Bronze 3 | BOJ | 1547 '공' | https://www.acmicpc.net/problem/1547 |
+| 2020-12-17 | Bronze 3 | BOJ | 1009 '분산 처리' | https://www.acmicpc.net/problem/1009 |
+| 2020-12-18 | Bronze 3 | BOJ | 1598 '꼬리를 무는 숫자 나열' | https://www.acmicpc.net/problem/1598 |
