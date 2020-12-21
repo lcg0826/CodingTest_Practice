@@ -13,3 +13,4 @@
 | 2020-12-17 | Bronze 3 | BOJ | 1009 '분산 처리' | https://www.acmicpc.net/problem/1009 |
 | 2020-12-18 | Bronze 3 | BOJ | 1598 '꼬리를 무는 숫자 나열' | https://www.acmicpc.net/problem/1598 |
 | 2020-12-20 | Bronze 3 | BOJ | 1964 '오각형, 오각형, 오각형' | https://www.acmicpc.net/problem/1964 |
+| 2020-12-21 | Bronze 3 | BOJ | 2010 '플러그' | https://www.acmicpc.net/problem/2010 |
