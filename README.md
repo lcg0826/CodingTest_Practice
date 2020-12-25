@@ -15,3 +15,4 @@
 | 2020-12-20 | Bronze 3 | BOJ | 1964 '오각형, 오각형, 오각형' | https://www.acmicpc.net/problem/1964 |
 | 2020-12-21 | Bronze 3 | BOJ | 2010 '플러그' | https://www.acmicpc.net/problem/2010 |
 | 2020-12-23 | Bronze 3 | BOJ | 2163 '초콜릿 자르기' | https://www.acmicpc.net/problem/2163 |
+| 2020-12-22 | Bronze 3 | BOJ | 2438 '별찍기' | https://www.acmicpc.net/problem/2438 |
