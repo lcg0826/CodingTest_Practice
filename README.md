@@ -16,5 +16,7 @@
 | 2020-12-21 | Bronze 3 | BOJ | 2010 '플러그' | https://www.acmicpc.net/problem/2010 |
 | 2020-12-23 | Bronze 3 | BOJ | 2163 '초콜릿 자르기' | https://www.acmicpc.net/problem/2163 |
 | 2020-12-25 | Bronze 3 | BOJ | 2438 '별찍기' | https://www.acmicpc.net/problem/2438 |
-| 2020-12-26 | Bronze 3 | BOJ | 2438 '별찍기' | https://www.acmicpc.net/problem/2439 |
+| 2020-12-26 | Bronze 3 | BOJ | 2439 '별찍기2' | https://www.acmicpc.net/problem/2439 |
+| 2020-12-27 | Bronze 3 | BOJ | 2440 '별찍기3' | https://www.acmicpc.net/problem/2440 |
+| 2020-12-27 | Bronze 3 | BOJ | 2431 '별찍기4' | https://www.acmicpc.net/problem/2441 |
 
