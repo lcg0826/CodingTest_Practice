@@ -21,4 +21,6 @@
 | 2020-12-27 | Bronze 3 | BOJ | 2441 '별찍기4' | https://www.acmicpc.net/problem/2441 |
 | 2020-12-28 | Bronze 3 | BOJ | 2442 '별찍기5' | https://www.acmicpc.net/problem/2442 |
 | 2020-12-28 | Bronze 3 | BOJ | 2443 '별찍기6' | https://www.acmicpc.net/problem/2443 |
+| 2020-12-30 | Bronze 3 | BOJ | 2443 '별찍기7' | https://www.acmicpc.net/problem/2444 |
+| 2020-12-30 | Bronze 3 | BOJ | 2443 '별찍기9' | https://www.acmicpc.net/problem/2446 |
 
