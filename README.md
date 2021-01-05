@@ -25,3 +25,4 @@
 | 2020-12-30 | Bronze 3 | BOJ | 2447 '별찍기9' | https://www.acmicpc.net/problem/2446 |
 | 2021-01-03 | Bronze 3 | BOJ | 2455 '지능형 기차' | https://www.acmicpc.net/problem/2455 |
 | 2021-01-04 | Bronze 3 | BOJ | 2523 '별찍기 13' | https://www.acmicpc.net/problem/2523 |
+| 2021-01-05 | Bronze 3 | BOJ | 2523 '구구단' | https://www.acmicpc.net/problem/2739 |
