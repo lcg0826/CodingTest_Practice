@@ -28,4 +28,5 @@
 | 2021-01-05 | Bronze 3 | BOJ | 2523 '구구단' | https://www.acmicpc.net/problem/2739 |
 | 2021-01-10 | Bronze 3 | BOJ | 2523 'N찍기' | https://www.acmicpc.net/problem/2741 |
 | 2021-01-11 | Bronze 3 | BOJ | 2884 '알람시계' | https://www.acmicpc.net/problem/2884 |
-| 2021-01-11 | Bronze 3 | BOJ | 10818 '최소,최대' | https://www.acmicpc.net/problem/10818 |
+| 2021-01-12 | Bronze 3 | BOJ | 10818 '최소,최대' | https://www.acmicpc.net/problem/10818 |
+| 2021-01-13 | Bronze 3 | BOJ | 10872 '팩토리얼' | https://www.acmicpc.net/problem/10872 |
