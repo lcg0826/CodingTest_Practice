@@ -31,4 +31,5 @@
 | 2021-01-12 | Bronze 3 | BOJ | 10818 '최소,최대' | https://www.acmicpc.net/problem/10818 |
 | 2021-01-13 | Bronze 3 | BOJ | 10872 '팩토리얼' | https://www.acmicpc.net/problem/10872 |
 | 2021-01-14 | Bronze 3 | BOJ | 10950 'A+B-3' | https://www.acmicpc.net/problem/10950 |
-| 2021-01-19 | Sliver 5 | BOJ | 1934 '최소공배수' | https://www.acmicpc.net/problem/1934 |
+| 2021-01-19 | Silver 5 | BOJ | 1934 '최소공배수' | https://www.acmicpc.net/problem/1934 |
+| 2021-01-20 | Silver 5 | BOJ | 1181 '단어정렬' | https://www.acmicpc.net/problem/1181 |
