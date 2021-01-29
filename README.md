@@ -34,3 +34,4 @@
 | 2021-01-19 | Silver 5 | BOJ | 1934 '최소공배수' | https://www.acmicpc.net/problem/1934 |
 | 2021-01-20 | Silver 5 | BOJ | 1181 '단어정렬' | https://www.acmicpc.net/problem/1181 |
 | 2021-01-25 | Silver 5 | BOJ | 2751 '단어정렬' | https://www.acmicpc.net/problem/2751 |
+| 2021-01-29 | Bronze 1 | BOJ | 1546 '평균' | https://www.acmicpc.net/problem/1546 |
