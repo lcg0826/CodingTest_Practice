@@ -35,3 +35,4 @@
 | 2021-01-20 | Silver 5 | BOJ | 1181 '단어정렬' | https://www.acmicpc.net/problem/1181 |
 | 2021-01-25 | Silver 5 | BOJ | 2751 '단어정렬' | https://www.acmicpc.net/problem/2751 |
 | 2021-01-29 | Bronze 1 | BOJ | 1546 '평균' | https://www.acmicpc.net/problem/1546 |
+| 2021-02-17 | Silver 5 | BOJ | 1427 '소트인사이드' | https://www.acmicpc.net/problem/1427 |
