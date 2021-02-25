@@ -38,4 +38,4 @@
 | 2021-02-17 | Silver 5 | BOJ | 1427 '소트인사이드' | https://www.acmicpc.net/problem/1427 |
 | 2021-02-22 | Silver 5 | BOJ | 1037 '약수' | https://www.acmicpc.net/problem/1037 |
 | 2021-02-23 | Silver 5 | BOJ | 1010 '다리놓기' | https://www.acmicpc.net/problem/1010 |
-| 2021-02-23 | Bronze 1 | BOJ | 1259 '팰린드롬수' | https://www.acmicpc.net/problem/1259 |
+| 2021-02-25 | Bronze 1 | BOJ | 1259 '팰린드롬수' | https://www.acmicpc.net/problem/1259 |
