@@ -10,11 +10,13 @@ for i in range(n):
     word = input();
 
     # 입력 받은 단어의 개수에서 -1까지 for문
-    for j in range(0, len(word)-1):
-        # 입력 받은 단어의 j번째와 j+1 번째와 다른 경우
-        if word[i] != word[i+1]:
-            # 입력 받은 단어의 j번째 알파벳이 j+1번째부터 마지막 안에 동일한 알파벳이 존재하면 그룹문자가 아니기 때문에 -1
-            if word[j] in word[j+1:] :
+    for j in range(len(word)-1):
+        # 입력 받은 단어의 j번째와 j+1 번째와 같은 경우 pass
+        if word[j] == word[j+1]:
+            pass;
+        # 입력 받은 단어의 j번째 알파벳이 j+1번 째부터 마지막 안에 동일한 알파벳이 존재하면 그룹 문자가 아니기 때문에 -1
+        elif word[j] != word[j+1]:
+            if word[j] in word[j+1:]:
                 n -= 1;
-
+                break;
 print(n)
