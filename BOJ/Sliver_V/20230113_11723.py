@@ -1,29 +1,13 @@
-import sys
+# 붙일 길이
+x = int(input())
+cnt = 0
+# 자르고 남는 길이
+n = 64
 
-n = int(sys.stdin.readline())
-s = set()
-
-for _ in range(n) :
-    array = sys.stdin.readline().strip().split()
-
-    if len(array) == 1:
-        if array[0] == "all":
-            s = set([i for i in range(1, 21)])
-        else:
-            s = set()
-
+while x > 0:
+    if n > x:
+        n = n // 2
     else:
-        calc, x = array[0], array[1]
-        x = int(x)
-
-        if calc == "add":
-            s.add(x)
-        elif calc == "remove":
-            s.discard(x)
-        elif calc == "check":
-            print(1 if x in s else 0)
-        elif calc == "toggle":
-            if x in s:
-                s.discard(x)
-            else:
-                s.add(x)
+        cnt += 1
+        x -= n
+print(cnt)
